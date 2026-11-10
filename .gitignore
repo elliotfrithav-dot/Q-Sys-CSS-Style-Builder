@@ -1,0 +1,16 @@
+# Python / build output
+__pycache__/
+*.pyc
+build/
+dist/
+*.zip
+
+# Local tool settings
+.claude/
+
+# Third-party assets not licensed for redistribution
+Icons/
+MicrosoftTeamsRoomCSS.1.0.0/
+
+# Scratch copies
+UCI Reference - Copy.uci
